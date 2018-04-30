@@ -11,7 +11,7 @@ Your task is to build a React powered page to:
 
 ## API Details
 
-API Endpoint: `https://github.com/BookingBoss/reactjs-test/blob/master/products.json`
+API Endpoint: `https://github.com/BookingBoss/reactjs-test/blob/master/productsData.json`
 
 ## Requirements
 
